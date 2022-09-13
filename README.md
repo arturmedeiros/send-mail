@@ -1,7 +1,7 @@
 
 # ✉️ Send Mail with Node.JS
-[![NodeJS](https://img.shields.io/badge/Node.JS-100000?style=for-the-badge&logo=Node.js)](https://play.google.com/store/apps/dev?id=8653231713746772227)
-[![NodeMailer](https://img.shields.io/badge/-📬%20Node%20%20Mailer-000?style=for-the-badge)](https://widgets-buttons.pages.dev/)
+[![NodeJS](https://img.shields.io/badge/Node.JS-000?style=for-the-badge&logo=Node.js)](https://nodejs.org/en/)
+[![NodeMailer](https://img.shields.io/badge/-📬%20Node%20%20Mailer-000?style=for-the-badge)](https://github.com/nodemailer/nodemailer/)
 
 
 ## About
