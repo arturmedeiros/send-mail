@@ -76,7 +76,7 @@ nodemon server.js
 
 - [@arturmedeiros](https://www.github.com/arturmedeiros)
 
-##📖 References
+## 📖 References
 
 - [Igor Oliveira - Programador BR](https://www.youtube.com/watch?v=60JCFKrihUU)
 
